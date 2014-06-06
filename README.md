@@ -1,4 +1,4 @@
-Integrating BIRT Viewer Toolkit andZK 
+Integrating BIRT Viewer Toolkit and ZK
 ============
 1. Create a report in Eclipse BIRT Designer; 
 2. Deploy ActuateBIRTViewer Toolkit in application server; 
