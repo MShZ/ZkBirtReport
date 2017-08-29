@@ -6,3 +6,4 @@ Integrating BIRT Viewer Toolkit and ZK
 4. Passing parameters to the report;
 5. View reports;
 
+https://www.zkoss.org/wiki/Small_Talks/2014/June/Integrating_BIRT_Viewer_Toolkit_and_ZK
